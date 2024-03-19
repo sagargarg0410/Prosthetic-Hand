@@ -20,7 +20,6 @@ This project aimed to collaborate state-of-the-art technologies and inventive co
  ### 2) Embedded Part <br>
  ### 3) Analog Part <br>
  ### 4) Mechanical Engineering Part <br>
- ### 5) Website Integration and BCI <br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 1) Neuroscience Part <br>
